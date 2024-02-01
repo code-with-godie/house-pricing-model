@@ -1,0 +1,1 @@
+# This project is a machine learning project which create a model to determine the house pricing 
